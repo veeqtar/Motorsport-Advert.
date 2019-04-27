@@ -1,0 +1,58 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+header
+{
+background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url(lexus.jpg);
+height:110vh;
+background-size: cover;
+background-position: center;
+}
+
+.home-nav li a
+{
+display:inline-block;
+color:white;
+text-decoration:none;
+padding:10px 10px;
+font-size: 35px;
+font-family:"Roboto",sans-serif;
+} 
+.home-nav
+{
+float:center;
+margin-top:210px;
+list-style:none;
+}
+ul li a:hover
+{
+background-color:black;
+color:white;
+transition:0.4s ease;
+}
+
+.welcome
+{
+position:absolute;
+width:1000px;
+margin-left:0;
+margin-top:0;
+}
+
+h1
+{
+color:lavender;
+font-size:40px;
+text-align:center;
+margin-top:75px;
+}
+h2
+{
+color:white;
+font-size:30px;
+text-align:right;
+margin-top:70px;
+}

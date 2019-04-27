@@ -1,0 +1,57 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+
+.nissan-nav
+{
+margin-top:10px;
+list-style:none;
+text-align:left;
+
+}
+.nissan-nav li 
+{
+display:inline-block;
+}
+.nissan-nav li a
+{
+color:white;
+text-decoration:none;
+padding:10px 10px;
+font-size:25px;
+font-family:timesnewroman;
+} 
+ul li a:hover
+{
+background-color:khaki;
+color:black;
+transition:0.4s ease;
+}
+
+body
+{
+font-family:georgia;
+font-size:28px;
+background-color:peru;
+color:white;
+}
+.
+.float-img
+{
+float:center;
+clear:center;
+margin-bottom:10px;
+boarder:solid black 10px;
+padding:10px;
+}
+h1
+{
+font-family:sans-serif;
+font-size:40px;
+text-align:left;
+color:white;
+font-family:algerian;
+}

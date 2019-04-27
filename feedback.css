@@ -1,0 +1,71 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+header
+{
+background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url(feedbackbg.jpg);
+height:160vh;
+background-size: cover;
+background-position: center;
+}
+.feedback-nav
+{
+margin-top:10px;
+list-style:none;
+text-align:center;
+
+}
+.feedback-nav li 
+{
+display:inline-block;
+}
+.feedback-nav li a
+{
+color:lavender;
+text-decoration:none;
+padding:10px 10px;
+font-size:px10;
+font-family:timesnewroman;
+} 
+ul li a:hover
+{
+background-color:khaki;
+color:black;
+transition:0.4s ease;
+}
+body
+{
+font-family:sans-serif;
+font-size:30px;
+background-color:floralwhite;
+color:lavender;
+}
+input[type=submit]
+{
+font-family:sans-serif;
+font-size:40px;
+width:200px;
+}
+textarea
+{
+
+font-size:25px;
+background:white;
+}
+form
+{
+font-family:sans-serif;
+font-size:25px;
+text-align:center;
+}
+h1
+{
+font-family:sans-serif;
+font-size:40px;
+text-align:left;
+color:white;
+font-family:algerian;
+}

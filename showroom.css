@@ -1,0 +1,63 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+
+header
+{
+background-image:linear-gradient(rgba(5,0,0,0.2),rgba(0,0,0,0.5)),url(showroombg.jpg);
+height:150vh;
+background-size: cover;
+background-position: center;
+}
+
+.showroom-nav
+{
+margin-top:10px;
+margin-right:10px;
+list-style:none;
+text-align:left;
+
+}
+.showroom-nav li 
+{
+display:inline-block;
+}
+.showroom-nav li a
+{
+color:white;
+text-decoration:none;
+padding:10px 10px;
+font-size:20px;
+font-family:timesnewroman;
+} 
+ul li a:hover
+{
+background-color:orange;
+color:whte;
+transition:0.4s ease;
+}
+table
+{
+font-family:sans-serif;
+font-size:20px;
+text-align:center;
+margin-left:50px;
+marigin-bottom:10px;
+}
+body
+{
+font-family:sans-serif;
+color:white;
+}
+h1
+{
+font-family:sans-serif;
+font-size:40px;
+text-align:left;
+color:white;
+font-family:algerian;
+}
+

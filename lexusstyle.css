@@ -1,0 +1,59 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+
+.lexus-nav
+{
+margin-top:10px;
+list-style:none;
+}
+.lexus-nav li 
+{
+display:inline-block;
+}
+.lexus-nav li a
+{
+color:white;
+text-decoration:none;
+padding:10px 10px;
+font-size:25px;
+font-family:timesnewroman;
+} 
+ul li a:hover
+{
+background-color:black;
+color:white;
+transition:0.4s ease;
+}
+
+body
+{
+font-family:timesnewroman;
+font-size:27px;
+text-align:justify;
+background-color:grey;
+color:white;
+}
+.float-img
+{
+float:left;
+margin-right:10px;
+margin-bottom:5px;
+boarder:solid black 1px;
+padding:2px;
+}
+h1
+{
+font-family:sans-serif;
+font-size:40px;
+text-align:left;
+color:white;
+font-family:algerian;
+}
+
+
+
+
